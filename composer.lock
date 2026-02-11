@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "277124d7c4861c95b355cbf77d6147ca",
+    "content-hash": "ab8479a2621fbe9425fc3f9d547b84cc",
     "packages": [
         {
             "name": "brick/math",
@@ -9366,16 +9366,16 @@
         },
         {
             "name": "thumanics/laravel-boost",
-            "version": "dev-main",
+            "version": "v1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thumanics/laravel-boost.git",
-                "reference": "b76fe8271a6e0ae23a531397bf9df4dca0750bc3"
+                "reference": "ed06718c87474b0fb0e1fa8437490f404c9cac59"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thumanics/laravel-boost/zipball/b76fe8271a6e0ae23a531397bf9df4dca0750bc3",
-                "reference": "b76fe8271a6e0ae23a531397bf9df4dca0750bc3",
+                "url": "https://api.github.com/repos/thumanics/laravel-boost/zipball/ed06718c87474b0fb0e1fa8437490f404c9cac59",
+                "reference": "ed06718c87474b0fb0e1fa8437490f404c9cac59",
                 "shasum": ""
             },
             "require": {
@@ -9387,7 +9387,10 @@
                 "laravel/mcp": "^0.5.1",
                 "laravel/prompts": "^0.3.10",
                 "laravel/roster": "^0.2.9",
-                "php": "^8.2"
+                "php": "^8.2",
+                "spatie/laravel-medialibrary": "^11.18",
+                "spatie/laravel-sluggable": "^3.7",
+                "tailflow/laravel-orion": "^2.23"
             },
             "require-dev": {
                 "laravel/pint": "^1.27.0",
@@ -9397,7 +9400,6 @@
                 "phpstan/phpstan": "^2.1.27",
                 "rector/rector": "^2.1"
             },
-            "default-branch": true,
             "type": "library",
             "extra": {
                 "laravel": {
@@ -9429,14 +9431,12 @@
                 "issues": "https://github.com/laravel/boost/issues",
                 "source": "https://github.com/laravel/boost"
             },
-            "time": "2026-02-11T10:08:39+00:00"
+            "time": "2026-02-11T11:07:45+00:00"
         }
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "thumanics/laravel-boost": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
