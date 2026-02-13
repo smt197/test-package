@@ -9368,16 +9368,16 @@
         },
         {
             "name": "thumanics/laravel-boost",
-            "version": "v1.0.13",
+            "version": "v1.0.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thumanics/laravel-boost.git",
-                "reference": "670fd6389c5a320103be27f0635fe229074825e5"
+                "reference": "4f2f71a5ece75f0906049bc8e17d6790801bafa9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thumanics/laravel-boost/zipball/670fd6389c5a320103be27f0635fe229074825e5",
-                "reference": "670fd6389c5a320103be27f0635fe229074825e5",
+                "url": "https://api.github.com/repos/thumanics/laravel-boost/zipball/4f2f71a5ece75f0906049bc8e17d6790801bafa9",
+                "reference": "4f2f71a5ece75f0906049bc8e17d6790801bafa9",
                 "shasum": ""
             },
             "require": {
@@ -9433,7 +9433,7 @@
                 "issues": "https://github.com/laravel/boost/issues",
                 "source": "https://github.com/laravel/boost"
             },
-            "time": "2026-02-13T09:59:24+00:00"
+            "time": "2026-02-13T10:24:48+00:00"
         }
     ],
     "aliases": [],
