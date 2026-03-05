@@ -1,0 +1,20 @@
+.git
+.github
+node_modules
+vendor
+.env
+
+# Storage
+storage/logs/*.log
+storage/framework/cache/data/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/framework/testing/*
+
+# Other
+tests/
+.phpunit.result.cache
+
+# Docker
+docker-compose.yaml
+production/docker-compose.yaml
