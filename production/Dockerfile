@@ -19,8 +19,7 @@ WORKDIR /var/www/html
 COPY --chown=www-data:www-data composer.json composer.lock* ./
 
 USER www-data
-RUN --mount=type=cache,target=/tmp/cache \
-    COMPOSER_CACHE_DIR=/tmp/cache composer install \
+RUN composer install \
     --no-dev \
     --no-interaction \
     --no-scripts \
