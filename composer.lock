@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2d8f0b9a9400451507a334b8d42b002b",
+    "content-hash": "12b277cfccf2226b6864ba3c5ac13770",
     "packages": [
         {
             "name": "brick/math",
@@ -6856,16 +6856,16 @@
         },
         {
             "name": "thumanics/laravel-boost",
-            "version": "v1.0.25",
+            "version": "v1.0.27",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thumanics/laravel-boost.git",
-                "reference": "354b723284a27dc9add102dc70c7b39223843d4c"
+                "reference": "f1f45dc2f018664334a672ce39bc4dc430318bbd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thumanics/laravel-boost/zipball/354b723284a27dc9add102dc70c7b39223843d4c",
-                "reference": "354b723284a27dc9add102dc70c7b39223843d4c",
+                "url": "https://api.github.com/repos/thumanics/laravel-boost/zipball/f1f45dc2f018664334a672ce39bc4dc430318bbd",
+                "reference": "f1f45dc2f018664334a672ce39bc4dc430318bbd",
                 "shasum": ""
             },
             "require": {
@@ -6921,7 +6921,7 @@
                 "issues": "https://github.com/thumanics/laravel-boost/issues",
                 "source": "https://github.com/thumanics/laravel-boost"
             },
-            "time": "2026-03-30T12:37:16+00:00"
+            "time": "2026-03-30T14:13:32+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
