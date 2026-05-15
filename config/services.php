@@ -35,4 +35,8 @@ return [
         ],
     ],
 
+    'crawl4ai' => [
+        'base_url' => env('CRAWL4AI_BASE_URL', 'http://crawl4ai.192.168.1.14.sslip.io:11235'),
+    ],
+
 ];

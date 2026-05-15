@@ -6856,16 +6856,16 @@
         },
         {
             "name": "thumanics/laravel-boost",
-            "version": "v1.0.35",
+            "version": "v1.0.36",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thumanics/laravel-boost.git",
-                "reference": "2d67664720d9ccb0f0b5164f8dc7d7a85a70553c"
+                "reference": "5e5b16d1cd04075c95801f8f2a229fa65753caae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thumanics/laravel-boost/zipball/2d67664720d9ccb0f0b5164f8dc7d7a85a70553c",
-                "reference": "2d67664720d9ccb0f0b5164f8dc7d7a85a70553c",
+                "url": "https://api.github.com/repos/thumanics/laravel-boost/zipball/5e5b16d1cd04075c95801f8f2a229fa65753caae",
+                "reference": "5e5b16d1cd04075c95801f8f2a229fa65753caae",
                 "shasum": ""
             },
             "require": {
@@ -6921,7 +6921,7 @@
                 "issues": "https://github.com/thumanics/laravel-boost/issues",
                 "source": "https://github.com/thumanics/laravel-boost"
             },
-            "time": "2026-05-15T15:03:14+00:00"
+            "time": "2026-05-15T15:57:25+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
