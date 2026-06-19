@@ -1,0 +1,7 @@
+APP_NAME=laravel-boost-mcp
+APP_ENV=production
+APP_DEBUG=false
+APP_KEY=base64:T/dVTxc9q6r/ZXI1j+2LpzC3DjI4VigR+8109YeRsOs=
+APP_URL=http://192.168.1.14:8002
+PORT=8002
+CRAWL4AI_BASE_URL=http://crawl4ai.192.168.1.14.sslip.io:11235 
